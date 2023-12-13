@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #8bb39e;
+    padding: 10px;
+	height:50px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+	margin:10px 50px;
+    float: left;
+    margin-right: 20px;
+	
+}
+
+.yu {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+a{
+    color:green;
+}
+.content {
+    padding: 20px;
+}
